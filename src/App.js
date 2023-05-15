@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        React - Git Repo App - by Veera....
+        React - Git Repo App - by Veera....HITS
       </header>
     </div>
   );
